@@ -11,7 +11,8 @@ sections:
   - block: hero
     content:
       title: Precision Genomics Suite
-      text: From the **[Wright](https://galenwrightlab.com/)**, **[Drögemöller](https://www.drogemollerlab.com/)**, and **[Kowalec](https://www.kowaleclab.com/)** Labs
+      text: Advances in single-cell RNA sequencing have opened new avenues to dissect biological pathways at a resolution that was not previously possible, advancing the application of precision medicine through genomic investigations of specific cells in specific locations. The Precision Genomics Suite consists of a Xenium Analyzer, Visium CytAssist, and Chromium iX, which collectively offer an integrated workflow for multi-omics single cell analyses, whole transcriptome single cell spatial sequencing, and high resolution targeted (i.e., sub-cellular) spatial sequencing.<br /> <br /> Funded by <span style="color:#7BAFD4">**[CFI-JELF](https://www.innovation.ca/apply-manage-awards/funding-opportunities/john-r-evans-leaders-fund)**</span> (<span style="color:#7BAFD4">**[Wright](https://galenwrightlab.com/)**</span>, <span style="color:#7BAFD4">**[Drögemöller](https://www.drogemollerlab.com/)**</span>, and <span style="color:#7BAFD4">**[Kowalec](https://www.kowaleclab.com/)**</span> Labs)
+      
 
     design:
       spacing:
@@ -37,10 +38,9 @@ sections:
           description: |
             State of the art
             single-cell and spatial transcriptiomics machines
-        - statistic: "3k+"
-          description: |
-            Discord community  
-            for support
+        - statistic: "In-house"
+          description: | 
+            lab and analyses aid
 
     design:
       # Section background color (CSS class)
@@ -53,11 +53,11 @@ sections:
     id: solutions
     content:
       items:
-        - title: Chromium-iX
+        - title: Chromium iX
           text: Single Cell Expression and ATAC
           feature_icon: bolt
           features:
-            - "Sequence any 10x Genomics single cell experiment (low-throughput)"
+            - "Sequence any 10X Genomics single cell experiment (low-throughput)"
           # Upload image to `assets/media/` and reference the filename here
           image: 19_4160_chromium_344.webp
           button:
