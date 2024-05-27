@@ -39,15 +39,15 @@ header:
       filename: "uofm_healthsci_logo.png"
     button:
       enable: true
-      text: "Get Started"
+      text: "Contact Us"
       url: "https://hugoblox.com/templates/"
-    show_search: true
+    show_search: false
     show_theme_chooser: false
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} My Company'
+    notice: '© {year}, Product descriptions and images from 10X Genomics'
 
 # Localization
 locale:
