@@ -7,6 +7,7 @@
 imports:
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind
+#  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap
 
 # Install any Hugo Blox within the `hugo-blox/blox/` folder
 mounts:
@@ -15,6 +16,9 @@ mounts:
     includeFiles: '**.html'
   - source: hugo-blox/blox/all-access
     target: layouts/partials/blox/
+    includeFiles: '**.html'
+  - source: hugo-blox/blocks
+    target: layouts/partials/blocks/
     includeFiles: '**.html'
   - source: hugo-blox/blox
     target: assets/dist/community/blox/

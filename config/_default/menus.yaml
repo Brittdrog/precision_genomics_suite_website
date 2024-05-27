@@ -6,15 +6,19 @@ main:
   - name: Home
     url: /#top
     weight: 10
-  - name: Features
-    url: /#features
-    weight: 20
-  - name: Solutions
+  - name: Equipment
     url: /#solutions
-    weight: 30
-  - name: Resources
-    weight: 40
     hasChildren: true
-  - parent: Resources
-    name: Blog
-    url: blog/
+    weight: 50
+  - parent: Equipment
+    name: Chromium iX
+    url: equipment/chromium-ix/
+  - parent: Equipment
+    name: Visium CytAssist
+    url: equipment/visium-cytassist/
+  - parent: Equipment
+    name: Xenium Analyzer
+    url: equipment/xenium-analyzer/
+  - name: Contact
+    url: contact/
+    weight: 70
