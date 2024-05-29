@@ -11,7 +11,7 @@ sections:
   - block: hero
     content:
       title: Precision Genomics Suite
-      text: Advances in single-cell RNA sequencing have opened new avenues to dissect biological pathways at a resolution that was not previously possible, advancing the application of precision medicine through genomic investigations of specific cells in specific locations. The Precision Genomics Suite consists of a Xenium Analyzer, Visium CytAssist, and Chromium iX, which collectively offer an integrated workflow for multi-omics single cell analyses, whole transcriptome single cell spatial sequencing, and high resolution targeted (i.e., sub-cellular) spatial sequencing.<br /> <br /> Funded by <span style="color:#7BAFD4">**[CFI-JELF](https://www.innovation.ca/apply-manage-awards/funding-opportunities/john-r-evans-leaders-fund)**</span> (<span style="color:#7BAFD4">**[Wright](https://galenwrightlab.com/)**</span>, <span style="color:#7BAFD4">**[Drögemöller](https://www.drogemollerlab.com/)**</span>, and <span style="color:#7BAFD4">**[Kowalec](https://www.kowaleclab.com/)**</span> Labs)
+      text: The Precision Genomics Suite offers an integrated workflow for multi-omics single cell analyses, whole transcriptome single cell spatial sequencing, and high resolution targeted (i.e., sub-cellular) spatial sequencing.<br /> <br /> Funded by <span style="color:#7BAFD4">**[CFI-JELF](https://www.innovation.ca/apply-manage-awards/funding-opportunities/john-r-evans-leaders-fund)**</span> (<span style="color:#7BAFD4">**[Drögemöller](https://www.drogemollerlab.com/)**</span>, <span style="color:#7BAFD4">**[Kowalec](https://www.kowaleclab.com/)**</span>, and <span style="color:#7BAFD4">**[Wright](https://galenwrightlab.com/)**</span> Labs)
       
 
     design:
@@ -32,15 +32,19 @@ sections:
       items:
         - statistic: "$1 328 074"
           description: |
-            Invesments from  
+            <br />Investments from  
             CFI, Research Manitoba, and others
-        - statistic: "3"
+        - statistic: "Equipment" 
           description: |
-            State of the art
-            single-cell and spatial transcriptiomics machines
+            <br /> Xenium Analyzer <br /> 
+            Visium CytAssist <br /> 
+            Chromium iX <br /> 
+            CellDrop Automated Cell Counter <br />
+            4150 TapeStation System <br /> 
+            QuantStudio6Pro Flex System 
         - statistic: "In-house"
           description: | 
-            lab and analyses aid
+            <br /> Lab and data analysis assitance
 
     design:
       # Section background color (CSS class)
@@ -54,10 +58,10 @@ sections:
     content:
       items:
         - title: Chromium iX
-          text: Single Cell Expression and ATAC
+          text: Single Cell Expression and Chromatic Accessibility
           feature_icon: bolt
           features:
-            - "Sequence any 10X Genomics single cell experiment (low-throughput)"
+            - "Library prep for 10X Genomics single cell/nuclei experiments"
           # Upload image to `assets/media/` and reference the filename here
           image: 19_4160_chromium_344.webp
           button:

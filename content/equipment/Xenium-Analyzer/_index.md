@@ -13,7 +13,7 @@ sections:
     content:
       items:
         - title: Xenium Analyzer
-          text: Xenium performs spatial transcriptomics in a targeted region, permitting the study of single cells and even their sub-cellular regions in situ.
+          text: The Xenium Analyzer performs targetted spatial transcriptomics, permitting the in situ investigation of single cells at the sub-cellular level.
 
           image: Xenium-analyzer-instrument.png
           button:

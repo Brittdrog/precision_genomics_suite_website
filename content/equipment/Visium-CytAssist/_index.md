@@ -13,7 +13,7 @@ sections:
     content:
       items:
         - title: Visium CytAssist
-          text: Facilitates a whole-transcriptomics spatial profiling experiment that starts by getting a section of a tissue of interest and placing it on a glass slide. After library construction and sequencing, one can perform data analyses on regions of interest, annotate regions, and more.
+          text: The Visium CytAssist facilitates whole-transcriptomic spatial profiling experiments by transferring transcriptomic probes from standard glass slides to Visium slides. 
 
           # Upload image to `assets/media/` and reference the filename here
           image: 10x_CytAssist_Right-Side_650x650.png
