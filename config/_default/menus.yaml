@@ -19,6 +19,6 @@ main:
   - parent: Equipment
     name: Xenium Analyzer
     url: equipment/xenium-analyzer/
-  - name: Contact Info
-    url: contact-info/
+  - name: Contact
+    url: contact/
     weight: 70

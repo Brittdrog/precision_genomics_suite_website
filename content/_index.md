@@ -96,8 +96,8 @@ sections:
       title: Contact us for more details!
       text: 
       button:
-        text: Get Started
-        url: https://hugoblox.com/templates/
+        text: Take our survery
+        url: https://forms.gle/iDhvpqitDk7TnVnV7
     design:
       card:
         # Card background color (CSS class)
