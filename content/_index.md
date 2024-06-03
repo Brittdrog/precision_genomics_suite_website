@@ -58,30 +58,21 @@ sections:
     content:
       items:
         - title: Chromium iX
-          text: Single Cell Expression and Chromatic Accessibility
-          feature_icon: bolt
-          features:
-            - "Library prep for 10X Genomics single cell/nuclei experiments"
+          text: Single cell/nuclei library prep
           # Upload image to `assets/media/` and reference the filename here
           image: 19_4160_chromium_344.webp
           button:
             text: Learn more
             url: equipment/chromium-ix/
         - title: Visium CytAssist
-          text: Whole Spatial Transcriptomics
-          feature_icon: bolt
-          features:
-            - "Target tissue sections for whole transcriptomic analyses"
+          text: Whole spatial transcriptomics
           # Upload image to `assets/media/` and reference the filename here
           image: 10x_CytAssist_Right-Side_650x650.png
           button:
             text: Learn more
             url: equipment/visium-cytassist/
         - title: Xenium Analyzer
-          text: Targetted Spatial Transcriptomics
-          feature_icon: bolt
-          features:
-            - "Study single-cell gene expression spatially"
+          text: Targetted spatial transcriptomics
           # Upload image to `assets/media/` and reference the filename here
           image: Xenium-analyzer-instrument.png
           button:
