@@ -30,11 +30,11 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "$1 328 074"
+        - statistic: "$1.3M"
           description: |
             <br />Investments from  
             CFI, Research Manitoba, and others
-        - statistic: "Equipment" 
+        - statistic: "Tech" 
           description: |
             <br /> Xenium Analyzer <br /> 
             Visium CytAssist <br /> 
