@@ -42,7 +42,7 @@ sections:
             CellDrop Automated Cell Counter <br />
             4150 TapeStation System <br /> 
             QuantStudio6Pro Flex System 
-        - statistic: "In-house"
+        - statistic: "Local"
           description: | 
             <br /> Lab and data analysis assitance
 
