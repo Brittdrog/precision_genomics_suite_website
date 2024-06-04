@@ -11,7 +11,7 @@ sections:
   - block: hero
     content:
       title: Precision Genomics Suite
-      text: The Precision Genomics Suite offers an integrated workflow for multi-omics single cell analyses, whole transcriptome single cell spatial sequencing, and high resolution targeted (i.e., sub-cellular) spatial analyses.<br /> <br /> Funded by <span style="color:#7BAFD4">**[CFI-JELF](https://www.innovation.ca/apply-manage-awards/funding-opportunities/john-r-evans-leaders-fund)**</span> (<span style="color:#7BAFD4">**[Drögemöller](https://www.drogemollerlab.com/)**</span>, <span style="color:#7BAFD4">**[Kowalec](https://www.kowaleclab.com/)**</span>, and <span style="color:#7BAFD4">**[Wright](https://galenwrightlab.com/)**</span> Labs)
+      text: The Precision Genomics Suite offers an integrated workflow for multi-omic single cell analyses, whole transcriptome single cell spatial sequencing, and high resolution targeted (i.e., sub-cellular) spatial analyses.<br /> <br /> Funded by <span style="color:#7BAFD4">**[CFI-JELF](https://www.innovation.ca/apply-manage-awards/funding-opportunities/john-r-evans-leaders-fund)**</span> (<span style="color:#7BAFD4">**[Drögemöller](https://www.drogemollerlab.com/)**</span>, <span style="color:#7BAFD4">**[Kowalec](https://www.kowaleclab.com/)**</span>, and <span style="color:#7BAFD4">**[Wright](https://galenwrightlab.com/)**</span> Labs)
       
 
     design:
@@ -44,7 +44,7 @@ sections:
             QuantStudio6Pro Flex System 
         - statistic: "Local"
           description: | 
-            <br /> Lab and data analysis assitance
+            <br /> Lab and data analysis assistance
 
     design:
       # Section background color (CSS class)
